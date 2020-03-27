@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.moondroid.coverflow:library:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e354c7cfcd5fa1ddee4e2ba04d30df98/jetified-library-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e354c7cfcd5fa1ddee4e2ba04d30df98/jetified-library-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.moondroid.coverflow/library/1.0/5f6979c87f2791c8e297c68dab00c5be4b56d13a/library-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.moondroid.coverflow/library/1.0/af7aa4ec3a4fa89ac593b3b2bc4d26ff2bd12b60/library-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
