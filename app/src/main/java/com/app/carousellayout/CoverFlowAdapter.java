@@ -66,17 +66,7 @@ public class CoverFlowAdapter extends BaseAdapter {
 
             @Override
             public void onClick(View v) {
-                final Dialog dialog = new Dialog(activity);
-                dialog.setContentView(R.layout.dialog_game_info);
-                dialog.setCancelable(true); // dimiss when touching outside
-                dialog.setTitle("Game Details");
-
-                TextView text = (TextView) dialog.findViewById(R.id.name);
-                text.setText(getItem(position).getName());
-                ImageView image = (ImageView) dialog.findViewById(R.id.image);
-                image.setImageResource(getItem(position).getImageSource());
-
-                dialog.show();
+                Toast.makeText(activity, ""+position, Toast.LENGTH_SHORT).show();
             }
         };
     }
